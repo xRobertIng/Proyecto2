@@ -1,4 +1,4 @@
-># PROYECTO SEGUNDO CORTE  README.MD
+># PROYECTO SEGUNDO CORTE UTILIZANDO NEST.JS README.MD
 >
 >**Proyecto Electiva de Profundizacion I-Creacion de APs**.
 >- Integrantes:
